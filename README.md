@@ -1,0 +1,1 @@
+# Tredence_Generative-AI-Architect-Program-GCP-Assignment-2
